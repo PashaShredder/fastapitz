@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stone-album-377809",
+  "private_key_id": "f21b11ba7327024486df27dfec5c1b2e98bd4580",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZLPMlkPgtIL1h\nKNC7xOM9Qz/mobJCk8mpvlnxWOSDk07UmXME/rvZnlEPoLgHzxpDnGJ4wMi8W69h\nl38q+5aVnBc9zeniQzQyZn1DItJ1Z0aRAAbzsbFQDMnydDofyDDlcUsQ4NghNcnx\nJoIJ0PIvn/JAYJk4ENSGtDuO0V6epvxPWc7eCsoEmWuoIDydYu98PGuOW3rEqaVB\n2fpUIPPq5kA9m9Hj3vTmZ0dD/VCqFgU6vkgHMFtthisGL/TWNijA/ropEKTgmXi4\nsVS2YQ9LPJ0hKdr9/Yu3/Ic56OeuAAypVBEhIf7up04/iloxEbfiJ5XHuefbB27K\nR++Q9AvxAgMBAAECggEAG4IUin8N6sDR8dRsJAR4UMS2gZsxUb6LvVWnfm3Z3/1A\n73I9UzzSDINfiGBzHEfnrhO0JX5trlIC3ZJg7p2vDeAx1lIX+h/ajGCWh0uGIzpw\nVFL+bJ5ROxCI5edUlueTTGk7s2TFu7UWtp2VReEF1WKylTgj3As9t5E/jubvyKrq\nNiUEdsEE+WdG1k3vcMtcv3WBWHR50nxmTqOZ4ML8ydUOckW3NmPkY+CQgNcjv0Vs\nEKR9lMxQKlTglTNhSw+d4gcezNH+tmmeXrrd6xvTPTlJhUKBLWJGxMl28uA23POB\ncFupxOZbdsrG+xCG9Qfp4C0Z3Mn8MVm0m6Al0SSNtwKBgQDQZxWg4cRNj2jWeNEa\nB5c5ryTZRg2NGbShClDCRxLoz/BbCCerhiT1d+dM+5LPJO8mjwWFjJ6YzAtxwOu3\njOjcxi6w3VsQnVF4fXnasL071KEXpkwxipCcSeGMWBg6ER82K7vfIUABRPyTzKI5\nTeIx9lvNyMqSnTvI2RiHPgo3LwKBgQC8KNcpG3eCHV/+uDRw7YAoG3S2yubxDQn9\nM4vyxs//RtBvD3NxezrNShbpUa3NUyRtJnOIJZcJJRKlebAG/GRSU/Lf3zrekRPu\n9A1+ZQCkNTkXmmH5two5rR0E/SyuJyn6exdGB+2N96lGo2woSt2AaoTGGFJgjjj4\nZ4RFVLMm3wKBgQCHr/ZnD1euYAcUTQln9zVA+4X0aSX9jpUKnRrDw17OckS+IGsj\nxG1f3Ted6dZGRHfpFQm1UD8aoQ96eu9+TKJ4zBguU5EtGiCnYJrsBlLPF7vjGAVX\n5C4PdBMEO39anzdBH+xsdMulh/MjkAK3aLwzZ4GSVH+AQhtgw+iydXRVRQKBgQCY\ni1PEk+wTpNUKoTSCyUm5OmkpON56VuPeT0gKj3xZrYOWRqSFQC6v+H0Ss5GAgQNr\nKl1H55HHbDLtzPYU89IxnLWvIj+L6XqLo3i9HA2lEzEyHYuI9AhqMhrwzIDIwB+c\nXubDc/H3wu2NwzgQgoGJdtIl99nxRdySJvppav3DaQKBgB070je8SYXxh8vmhSFD\n1bWyM7EThiwfsAOhjABoQdIEh6PhF7bR49FAE050+e7/Cy4RPBCs5pRsiE/MV1o8\nqOVXTw3EIP/f2e8wykIbNPHOxa6mGk/leuvuc2z5NTm97QlTDGW8UFhnxgK5+Ib+\n+9rHUEf6dUZdpAX19pcSyIPB\n-----END PRIVATE KEY-----\n",
+  "client_email": "account@stone-album-377809.iam.gserviceaccount.com",
+  "client_id": "103212188267843432268",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40stone-album-377809.iam.gserviceaccount.com"
+}

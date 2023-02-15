@@ -1,0 +1,11 @@
+version: "3.10"
+services:
+  api:
+    build: .
+    container_name: fastapi_tz
+    ports:
+      - 8000:80
+    volumes:
+      - ./api:/api
+    env_file:
+      - ./api/.env
